@@ -1,0 +1,7 @@
+E:\Video tutorials\ITVDN\02 [ITVDN] C# Essential\MyHomeworks\09_delegates\008_delegates\bin\Debug\008_delegates.exe.config
+E:\Video tutorials\ITVDN\02 [ITVDN] C# Essential\MyHomeworks\09_delegates\008_delegates\bin\Debug\008_delegates.exe
+E:\Video tutorials\ITVDN\02 [ITVDN] C# Essential\MyHomeworks\09_delegates\008_delegates\bin\Debug\008_delegates.pdb
+E:\Video tutorials\ITVDN\02 [ITVDN] C# Essential\MyHomeworks\09_delegates\008_delegates\obj\Debug\008_delegates.csprojAssemblyReference.cache
+E:\Video tutorials\ITVDN\02 [ITVDN] C# Essential\MyHomeworks\09_delegates\008_delegates\obj\Debug\008_delegates.csproj.CoreCompileInputs.cache
+E:\Video tutorials\ITVDN\02 [ITVDN] C# Essential\MyHomeworks\09_delegates\008_delegates\obj\Debug\008_delegates.exe
+E:\Video tutorials\ITVDN\02 [ITVDN] C# Essential\MyHomeworks\09_delegates\008_delegates\obj\Debug\008_delegates.pdb
